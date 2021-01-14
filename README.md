@@ -14,11 +14,11 @@ I have always been passionate about solving problems. Now, I use code to do it :
 
 ## About me
 
-- :pencil: My blog: https://sthefanoc.com/blog
-- :email: Reach me: [sthefano@masteradin.com](mailto:sthefano@masteradin.com)
+- :email: Talk to me: [sthefano@masteradin.com](mailto:sthefano@masteradin.com)
 - :briefcase: Hire me: [Linkedin](https://www.linkedin.com/in/sthefanocarvalho/)
-- :computer: Hire me: [Github](https://github.com/sthefanoc/)
+- :computer: My work: [Github](https://github.com/sthefanoc/)
 - :office: My company: [Masteradin](https://masteradin.com/)
+- :pencil: My blog: https://sthefanoc.com/blog
 
 ## My Code
 
