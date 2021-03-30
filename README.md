@@ -3,8 +3,6 @@
 I'm [Sthefano Carvalho](https://sthefanoc.com), FullStack Developer and Growth Marketer.
 I have always been passionate about solving problems. Now, I use code to do it :)
 
-
-
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/sthefano_c)](https://twitter.com/sthefano_c)
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sthefano@masteradin.com)](mailto:sthefano@masteradin.com)
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://space.bilibili.com/7708412)](https://space.bilibili.com/7708412)
@@ -14,15 +12,15 @@ I have always been passionate about solving problems. Now, I use code to do it :
 
 ## About me
 
-- :email: Talk to me: [sthefano@masteradin.com](mailto:sthefano@masteradin.com)
-- :briefcase: Hire me: [Linkedin](https://www.linkedin.com/in/sthefanocarvalho/)
-- :computer: My work: [Github](https://github.com/sthefanoc/)
-- :office: My company: [Masteradin](https://masteradin.com/)
+- :email: Talk to me: <a href="mailto:sthefano@masteradin.com" target="_blank">sthefano@masteradin.com</a>
+- :briefcase: Hire me: <a href="https://www.linkedin.com/in/sthefanocarvalho/" target="_blank">Linkedin</a>
+- :computer: My work: <a href="https://github.com/sthefanoc/" target="_blank">Github</a>
+- :office: My company: <a href="https://masteradin.com/" target="_blank">Masteradin</a>
 - :pencil: My blog: https://sthefanoc.com/blog
 
 ## My Code
 
-- In my repositories, you will find a LOT of: 
+- In my repositories, you will find a LOT of:
 
     <div>
         <code><img height="20" alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/></code>
@@ -43,7 +41,8 @@ I have always been passionate about solving problems. Now, I use code to do it :
         <code><img height="20" alt="Django" src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/></code>
         <code><img height="20" alt="Flask" src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/></code>
     </div>
-    
+
+
 - With beautiful styles:
 
     <div>
@@ -64,8 +63,9 @@ I have always been passionate about solving problems. Now, I use code to do it :
         <code><img height="20" alt="Vercel" src="https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/></code>
         <code><img height="20" alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/></code>
     </div>
-    
-- Using reliable databases:    
+
+
+- Using reliable databases:
     <div>
         <code><img height="20" alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/></code>
         <code><img height="20" alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/></code>
