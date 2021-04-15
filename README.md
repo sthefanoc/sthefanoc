@@ -1,6 +1,6 @@
 # Hello!
 
-I'm [Sthefano Carvalho](https://sthefanoc.com), FullStack Developer and Growth Marketer.
+I'm [Sthefano Carvalho](https://github.com/sthefanoc/), FullStack Developer and Growth Marketer.
 I have always been passionate about solving problems. Now, I use code to do it :)
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/sthefano_c)](https://twitter.com/sthefano_c)
